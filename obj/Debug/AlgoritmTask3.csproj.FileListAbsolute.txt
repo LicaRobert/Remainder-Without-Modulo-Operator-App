@@ -1,0 +1,11 @@
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\bin\Debug\AlgoritmTask3.exe.config
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\bin\Debug\AlgoritmTask3.exe
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\bin\Debug\AlgoritmTask3.pdb
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.csprojAssemblyReference.cache
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.Form1.resources
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.Properties.Resources.resources
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.csproj.GenerateResource.cache
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.csproj.CoreCompileInputs.cache
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.exe
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.pdb
+C:\Users\spr_a_000\source\repos\AlgoritmTask3\AlgoritmTask3\obj\Debug\AlgoritmTask3.Form2.resources
